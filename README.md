@@ -22,3 +22,5 @@ Express is use to provide the middleware for faster communication
 1) Clone or Fork the Repo
 2) Get the latest version of node then run "npm install"
 3) In order to run "node app.js" Or if you have nodemon then "nodemon app.js"
+
+![Blogging](https://github.com/Munawarhussain729/BloggingWithNode/assets/59243242/cd858472-8e39-4d91-8218-b4be6cd9f9d3)
